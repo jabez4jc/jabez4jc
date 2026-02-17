@@ -5,6 +5,7 @@ Product Leader: Automation & Operational Systems
 I lead and build **automation-first products** that transform complex, high-friction workflows into streamlined, operator-friendly systems. My work sits at the intersection of **product strategy, systems thinking, and hands-on execution.**
 
 I don’t just design interfaces; I build the control planes and productivity platforms that allow businesses to scale without adding linear overhead. My bias is always toward measurable outcomes: **fewer steps, zero-error rates, and faster time-to-action.**
+
 ---
 
 ## Product focus
@@ -12,6 +13,7 @@ I don’t just design interfaces; I build the control planes and productivity pl
 - **Control Planes & Admin UX**: Designing the "one place to run the business"—centralized management for multi-instance operations featuring global visibility, governance, and safety controls.
 - **Workflow-First UX**: Reducing cognitive load for high-stakes actions. I prioritize speed and clarity by building in guardrails, auditability, and reliability-by-default.
 - **Operational Excellence**: Treating reliability, observability, and scale-readiness as core product features rather than afterthoughts.
+
 ---
 
 ## Portfolio (selected work from my repos)
@@ -44,6 +46,7 @@ Repo: https://github.com/jabez4jc/simplifyed-app
 ### Overlay
 Template-driven overlay controller enabling structured content workflows and live operations.
 Repo: https://github.com/jabez4jc/Overlay
+
 ---
 
 ## How I Work
@@ -52,11 +55,13 @@ I bridge the gap between high-level strategy and shippable code by following a d
 - **Strategy into Artifacts**: I convert vision into high-velocity execution through detailed PRDs, phased roadmaps, and acceptance criteria that engineering teams can actually run with.
 - **Safety-by-Design**: I build simple control surfaces—toggles, dashboards, and guardrails—to ensure that as we increase speed, we don't increase risk.
 - **Iterative Delivery**: I ship incrementally, prioritizing based on risk, reliability, and operational cost, while ensuring every release is backed by documentation and measurable feedback loops.
+
 ---
 
 ## Core Strengths & Domains
 - **Core Strengths**: Product Strategy • Roadmap Shaping • UX for Operational Safety • Systems Thinking (Reliability/Observability) • Execution Leadership (Spec → Adoption)
 - **Domains**: Automation Platforms • Admin & Control Planes • Workflow Design • Reliability-Centric Operations • Operator Dashboards
+
 ---
 
 ## How to reach me
