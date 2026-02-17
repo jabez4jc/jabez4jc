@@ -67,5 +67,5 @@ I bridge the gap between high-level strategy and shippable code by following a d
 ## How to reach me
 - GitHub: https://github.com/jabez4jc
 - Website: https://simplifyed.in
-- LinkedIn: https://linkedin.com/in/jabez4jc
+- LinkedIn: https://linkedin.com/in/jabezv
 - Email: jabez4jc@gmail.com
